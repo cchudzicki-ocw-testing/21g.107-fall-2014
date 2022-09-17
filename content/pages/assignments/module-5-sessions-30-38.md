@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on assignments and in-class activities
+  for the fifth module of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

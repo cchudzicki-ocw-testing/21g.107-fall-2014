@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on assignments and in-class activities
+  for the second module of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -104,7 +106,7 @@ If you want to use a word you know how to say but not how to write, try Appendic
     3.  Read the text on p. 26 (listen to the audio file). Write on your book the answers to the questions in the exercises on pp. 26–27.
     4.  Read Dialogues 1–2 on pp. 28–29 (listen to the audio file), and study "Expressions on Money." on p. 38 (listen to the audio file).
 *   Complete Lingt Speaking Assignment Two before the class.
-*   Study [\[PC\] Lesson 1 Required Characters]({{< baseurl >}}/pages/study-materials).
+*   Study {{% resource_link "8b281a78-7af6-0ff6-b9ab-be5bf3c13f16" "\[PC\] Lesson 1 Required Characters" %}}.
 
 
 {{< tdclose >}}

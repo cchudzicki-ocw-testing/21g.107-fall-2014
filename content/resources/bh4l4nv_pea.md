@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-107-chinese-i-streamlined-fall-2014/9f5a8445a01e674d447380abf3a41ac0_bH4L4Nv_PeA.srt
+file: /media/courses/21g-107-chinese-i-streamlined-fall-2014/9f5a8445a01e674d447380abf3a41ac0_bH4L4Nv_PeA.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

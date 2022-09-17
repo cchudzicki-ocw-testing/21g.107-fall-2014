@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides instructions on how to complete speaking assignments
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
